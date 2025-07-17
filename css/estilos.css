@@ -1,0 +1,92 @@
+.contenedor {
+    width: 300px;
+    height: 450px;
+    margin: auto;
+    padding: 30px;
+    background-color: #72a2e0;
+    box-shadow: #4b4141 2px 2px 30px;
+    margin-bottom: 50px;
+}
+
+h1{
+    border: 4px;
+    background-color: #d3d3d3;
+    border-style: solid;
+    padding: 20px;
+    margin-top: 30px;
+    margin-bottom: 15px;
+    text-align: center;
+    
+}
+
+.parrafo {
+    text-align: justify;
+    text-align: justify;
+    font-size: 13px;
+    padding: 10px;
+    border: 1px dashed #aaa;
+}
+
+.foto{
+    width: 150px;
+    height: 150px;
+    border: 3px solid blue;     
+    border-radius: 10px;         
+    padding: 10px;               
+    margin-bottom: 20px;         
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+.pie {
+    border-top: 3px solid #d3d3d3;
+    padding-bottom: 10px;
+    font-size: 13px;
+    text-align: center;
+}
+
+/*section 2*/
+.contenedor2 {
+    width: 280px;
+    background-color: #c1dcf0;
+    margin: 10px auto;             /* margen reducido */
+    padding: 20px;
+    border: 1px solid #999999;     /* borde delgado y gris claro */
+    box-shadow: #4b4141 2px 2px 30px;
+    margin-bottom: 50px;
+}
+
+    .perfil2 {
+        border: 2px solid #999999;
+        padding: 15px;
+        margin-bottom: 10px;
+        background-color: #f0f0f0;
+        font-size: 16px;
+        text-align: center;
+    }
+    
+    .foto2 {
+        width: 120px;
+        height: 120px;
+        border: 2px solid #3498db;
+        border-radius: 10px;
+        padding: 8px;
+        margin-bottom: 15px;
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+    }
+  
+    .parrafo2 {
+        text-align: justify;
+        font-size: 13px;
+        padding: 10px;
+        border: 1px dashed #aaa;
+    }
+    
+    .pie2 {
+        border-top: 2px solid #ccc;
+        padding-top: 8px;
+        font-size: 12px;
+        text-align: center;
+    }
